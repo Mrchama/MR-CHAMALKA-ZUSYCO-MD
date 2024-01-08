@@ -10,8 +10,8 @@
 
 
 
-Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Project Name : CHAMALKA - MD
+Creator : @mr chamalka ofc , @mr-chama-x 
 
 */
 
@@ -22,7 +22,7 @@ module.exports = {
   BOT_NAME : "𝐂𝐇𝐀𝐌𝐀𝐋𝐊𝐀 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋👻💥",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
+    ALIVE: 'https://ibb.co/ZGY88vC/CHAMALKA OFC-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -33,7 +33,7 @@ module.exports = {
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
-  WORK_MODE : "onlygroups",
+  WORK_MODE : "groups and Inbox",
   WORK_MODE_MESSAGE_SEND : true,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ 𝙼𝚁 𝙲𝙷𝙰𝙼𝙰𝙻𝙺𝙰',
   STICKER_PACK : '[ 𝙼𝚁 𝙲𝙷𝙰𝙼𝙰 𝙾𝙵𝙲 ]',
