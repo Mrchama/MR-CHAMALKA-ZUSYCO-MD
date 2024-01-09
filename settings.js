@@ -22,7 +22,7 @@ module.exports = {
   BOT_NAME : "𝐂𝐇𝐀𝐌𝐀𝐋𝐊𝐀 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋👻💥",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://ibb.co/ZGY88vC/CHAMALKA OFC-ALIVE-IMAGE-LOWQ.jpg',
+    ALIVE: 'https://ibb.co/ZGY88vC/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
