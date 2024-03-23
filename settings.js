@@ -35,7 +35,7 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "groups and Inbox",
   WORK_MODE_MESSAGE_SEND : true,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ 𝙼𝚁 𝙲𝙷𝙰𝙼𝙰𝙻𝙺𝙰',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ 𝙼𝚁 𝙳𝚄𝙼𝙸𝙳𝚄',
   STICKER_PACK : '[ 𝙼𝚁 𝙲𝙷𝙰𝙼𝙰 𝙾𝙵𝙲 ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : true,
